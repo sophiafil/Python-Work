@@ -1,3 +1,5 @@
+# Write a function (charCount) that calculates the frequency of characters in a text. The function takes as an input a string and returns a dictionary with the frequency of characters.
+
 def charCount(userInput):
     # Makes user input all lowercase
     fixedInput =  userInput.lower()
