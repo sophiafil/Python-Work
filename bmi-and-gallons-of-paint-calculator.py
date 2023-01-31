@@ -1,3 +1,5 @@
+# Write a program that provides users a menu option for calculating gallons of paint needed or body mass index value.
+
 # Function to calculate the BMI using the inputted height and weight
 def bmiFormula(userHeight, userWeight):
   bmi = ((userWeight * 703)/(userHeight * userHeight))
